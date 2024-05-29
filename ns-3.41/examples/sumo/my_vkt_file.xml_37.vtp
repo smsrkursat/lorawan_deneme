@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<VTKFile type="PolyData" version="0.1" order="LittleEndian">
+<PolyData>
+ <Piece NumberOfPoints="36" NumberOfVerts="1" NumberOfLines="0" NumberOfStrips="0" NumberOfPolys="0">
+<PointData>
+ <DataArray type="Float64" Name="speed" format="ascii">14.6344 19.5678 14.4169 17.4758 22.1782 14.1168 11.1358 11.1226 11.6656 19.8434 6.4273 25.1792 13.7454 14.0274 21.3443 12.2735 11.9033 11.3109 19.2583 16.3786 12.2685 11.8284 6.55923 22.8993 15.203 11.8626 11.1082 0 2.35518 0 13.9204 17.9645 13.6622 11.9321 17.641 5.92259</DataArray>
+</PointData>
+<CellData/>
+<Points>
+ <DataArray type="Float64" Name="Points" NumberOfComponents="3" format="ascii">1941.48 1631.08 0 459.877 604.208 0 1315.11 537.119 0 291.169 694.777 0 1464.95 303.232 0 1341.51 626.771 0 1243.09 591.185 0 1347.96 531.85 0 2023.16 1878.84 0 200.499 784.773 0 1255.11 571.955 0 1564.49 222.446 0 1946.46 1694.06 0 2013.64 1907.47 0 154.262 836.362 0 1275.08 587.529 0 1295 603.374 0 1983.66 1967.03 0 91.0002 906.947 0 55.1604 950.984 0 1972.98 1986.06 0 27.2295 985.969 0 9.56435 1008.09 0 1291.99 459.087 0 1297.76 325.615 0 1947.45 2031.19 0 1228.84 610.164 0 1.932 1017.65 0 1777.75 6.82009 0 1922.24 2066.78 0 1484.47 469.3 0 337.313 661.075 0 1360.36 640.824 0 1983.93 1791.86 0 312.473 675.874 0 1348.19 470.013 0</DataArray>
+</Points>
+<Verts>
+ <DataArray type="Int64" Name="connectivity" format="ascii">0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35</DataArray>
+ <DataArray type="Int64" Name="offsets" format="ascii">36</DataArray>
+</Verts>
+<Lines>
+ <DataArray type="Int64" Name="connectivity" format="ascii"/>
+ <DataArray type="Int64" Name="offsets" format="ascii"/>
+</Lines>
+<Stripes>
+ <DataArray type="Int64" Name="connectivity" format="ascii"/>
+ <DataArray type="Int64" Name="offsets" format="ascii"/>
+</Stripes>
+<Polys>
+ <DataArray type="Int64" Name="connectivity" format="ascii"/>
+ <DataArray type="Int64" Name="offsets" format="ascii"/>
+</Polys>
+</Piece>
+</PolyData>
+</VTKFile>

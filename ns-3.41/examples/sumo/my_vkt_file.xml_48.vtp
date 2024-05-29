@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<VTKFile type="PolyData" version="0.1" order="LittleEndian">
+<PolyData>
+ <Piece NumberOfPoints="47" NumberOfVerts="1" NumberOfLines="0" NumberOfStrips="0" NumberOfPolys="0">
+<PointData>
+ <DataArray type="Float64" Name="speed" format="ascii">13.4591 20.4433 9.109 18.8825 22.0616 12.7167 8.07874 0.0787688 12.0439 20.2784 24.9153 13.0707 11.4853 21.9879 12.0157 11.4085 11.0424 19.0746 19.7668 10.2057 21.3417 19.4749 12.4713 0.00832767 11.3358 4.51642 19.3132 15.4808 9.46096 20.4104 15.6814 16.0447 4.58694 13.6615 9.19319 6.88814 10.6894 7.5247 6.0859 4.11063 2.3401 0 17.8729 13.9351 11.1836 17.2974 10.931</DataArray>
+</PointData>
+<CellData/>
+<Points>
+ <DataArray type="Float64" Name="Points" NumberOfComponents="3" format="ascii">1918.81 1478.56 0 657.701 564.667 0 1225.1 564.177 0 463.633 601.856 0 1282.14 470.762 0 1458.01 724.628 0 1235.25 515.309 0 1260.77 560.02 0 1972.43 1767.18 0 372.979 644.53 0 1350.73 394.672 0 1936.9 1545.87 0 1981.11 1785.79 0 324.846 668.503 0 1384.52 661.974 0 1399.82 675.369 0 2020.78 1858.66 0 229.108 752.852 0 196.795 788.905 0 2023.14 1879.03 0 172.543 815.965 0 125.479 868.477 0 1258.55 572.139 0 1325.72 407.751 0 2017.76 1898.67 0 1252.14 582.847 0 74.0874 927.278 0 44.7104 964.073 0 20.7264 994.114 0 1680.06 118.362 0 1984.84 1964.92 0 1729.26 65.9078 0 6.35763 1012.11 0 1959.62 2009.86 0 1937.41 2044.48 0 1541.8 486.875 0 1292.83 299.073 0 1231.7 642.541 0 1140.32 619.127 0 1561.2 507.569 0 1327.91 532.639 0 1282.81 267.221 0 508.211 566.924 0 1475.46 741.317 0 1943.14 1672.8 0 485.807 584.523 0 1447.65 470.17 0</DataArray>
+</Points>
+<Verts>
+ <DataArray type="Int64" Name="connectivity" format="ascii">0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46</DataArray>
+ <DataArray type="Int64" Name="offsets" format="ascii">47</DataArray>
+</Verts>
+<Lines>
+ <DataArray type="Int64" Name="connectivity" format="ascii"/>
+ <DataArray type="Int64" Name="offsets" format="ascii"/>
+</Lines>
+<Stripes>
+ <DataArray type="Int64" Name="connectivity" format="ascii"/>
+ <DataArray type="Int64" Name="offsets" format="ascii"/>
+</Stripes>
+<Polys>
+ <DataArray type="Int64" Name="connectivity" format="ascii"/>
+ <DataArray type="Int64" Name="offsets" format="ascii"/>
+</Polys>
+</Piece>
+</PolyData>
+</VTKFile>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<VTKFile type="PolyData" version="0.1" order="LittleEndian">
+<PolyData>
+ <Piece NumberOfPoints="35" NumberOfVerts="1" NumberOfLines="0" NumberOfStrips="0" NumberOfPolys="0">
+<PointData>
+ <DataArray type="Float64" Name="speed" format="ascii">14.582 12.5059 13.5475 13.6734 12.8889 11.6428 19.9811 13.3293 10.7622 13.3494 11.6286 11.3725 11.093 11.9288 19.4457 11.7782 11.934 12.7595 12.2048 10.7717 21.7373 11.4626 6.38109 4.07289 13.0768 9.51819 16.0019 9.86054 10.0771 13.8775 13.2074 17.9676 17.5935 13.8159 11.7255</DataArray>
+</PointData>
+<CellData/>
+<Points>
+ <DataArray type="Float64" Name="Points" NumberOfComponents="3" format="ascii">1344.46 632.411 0 1590.88 854.463 0 1481.72 747.564 0 1822.61 1232.21 0 1944.53 1601.96 0 1676.97 977.804 0 1589.32 196.986 0 1438.35 711.77 0 1690.62 994.05 0 1439.78 708.774 0 1874.64 1353.53 0 1881.27 1373.37 0 1760.67 1110.78 0 1329.09 618.952 0 1114.07 553.118 0 1768.5 1129.76 0 1226.83 462.469 0 1256.77 567.182 0 1868 1333.61 0 1776.91 1150.16 0 65.8939 942.665 0 1255.38 496.523 0 1231.95 522.527 0 1217.67 525.365 0 1622.76 889.497 0 1784.7 1169.04 0 1183.93 534.186 0 1792.78 1186.4 0 1802.21 1202.93 0 1688.81 986.923 0 1788.01 1168.68 0 227.894 759.001 0 1655.1 138.317 0 1944.65 1625.57 0 1615.55 886.324 0</DataArray>
+</Points>
+<Verts>
+ <DataArray type="Int64" Name="connectivity" format="ascii">0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34</DataArray>
+ <DataArray type="Int64" Name="offsets" format="ascii">35</DataArray>
+</Verts>
+<Lines>
+ <DataArray type="Int64" Name="connectivity" format="ascii"/>
+ <DataArray type="Int64" Name="offsets" format="ascii"/>
+</Lines>
+<Stripes>
+ <DataArray type="Int64" Name="connectivity" format="ascii"/>
+ <DataArray type="Int64" Name="offsets" format="ascii"/>
+</Stripes>
+<Polys>
+ <DataArray type="Int64" Name="connectivity" format="ascii"/>
+ <DataArray type="Int64" Name="offsets" format="ascii"/>
+</Polys>
+</Piece>
+</PolyData>
+</VTKFile>

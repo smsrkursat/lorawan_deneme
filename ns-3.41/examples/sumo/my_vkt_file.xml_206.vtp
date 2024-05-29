@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<VTKFile type="PolyData" version="0.1" order="LittleEndian">
+<PolyData>
+ <Piece NumberOfPoints="16" NumberOfVerts="1" NumberOfLines="0" NumberOfStrips="0" NumberOfPolys="0">
+<PointData>
+ <DataArray type="Float64" Name="speed" format="ascii">12.126 12.9773 18.5609 12.9457 13.4562 15.8383 11.9096 10.3333 15.7271 12.249 13.5059 14.2203 12.09 13.3449 8.4473 19.1137</DataArray>
+</PointData>
+<CellData/>
+<Points>
+ <DataArray type="Float64" Name="Points" NumberOfComponents="3" format="ascii">1992.09 1800.4 0 1966.02 1745.84 0 806.995 585.013 0 1577.94 840.241 0 1946.3 1672.36 0 1286.37 460.785 0 1883.08 1378.81 0 1350.81 527.529 0 1206.79 605.564 0 1876.24 1358.31 0 2027 1871.16 0 1291.57 538.58 0 1808.85 1208.12 0 1334.49 622.348 0 1260.3 581.093 0 1707.51 86.3598 0</DataArray>
+</Points>
+<Verts>
+ <DataArray type="Int64" Name="connectivity" format="ascii">0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15</DataArray>
+ <DataArray type="Int64" Name="offsets" format="ascii">16</DataArray>
+</Verts>
+<Lines>
+ <DataArray type="Int64" Name="connectivity" format="ascii"/>
+ <DataArray type="Int64" Name="offsets" format="ascii"/>
+</Lines>
+<Stripes>
+ <DataArray type="Int64" Name="connectivity" format="ascii"/>
+ <DataArray type="Int64" Name="offsets" format="ascii"/>
+</Stripes>
+<Polys>
+ <DataArray type="Int64" Name="connectivity" format="ascii"/>
+ <DataArray type="Int64" Name="offsets" format="ascii"/>
+</Polys>
+</Piece>
+</PolyData>
+</VTKFile>
