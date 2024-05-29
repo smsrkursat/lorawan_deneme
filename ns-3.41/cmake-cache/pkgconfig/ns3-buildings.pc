@@ -1,0 +1,13 @@
+exec_prefix="/usr/local/bin"
+libdir="/usr/local/lib"
+includedir="/usr/local/include"
+
+Name: ns3-buildings
+Description: 
+URL: 
+Version: 3.41
+Requires:  ns3-propagation
+Requires.private: 
+Cflags: -I"${includedir}"  -I/usr/include/libxml2
+Libs: -L"${libdir}" -lns3.41-buildings-default  -lns3.41-propagation-default
+Libs.private: -L"${libdir}" 
